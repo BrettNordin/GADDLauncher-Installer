@@ -1,0 +1,13 @@
+C:\Users\Brett\OneDrive\Sphub 2020\GADD Launcher\gadd_updater\obj\Release\g_add_up_dater.csprojAssemblyReference.cache
+C:\Users\Brett\OneDrive\Sphub 2020\GADD Launcher\gadd_updater\obj\Release\gadd_updater.Updater.resources
+C:\Users\Brett\OneDrive\Sphub 2020\GADD Launcher\gadd_updater\obj\Release\g_add_up_dater.csproj.GenerateResource.cache
+C:\Users\Brett\OneDrive\Sphub 2020\GADD Launcher\gadd_updater\obj\Release\g_add_up_dater.csproj.CoreCompileInputs.cache
+C:\Users\Brett\OneDrive\Sphub 2020\GADD Launcher\gadd_updater\bin\Release\GADD_Launcher_Updater.exe.config
+C:\Users\Brett\OneDrive\Sphub 2020\GADD Launcher\gadd_updater\bin\Release\GADD_Launcher_Updater.exe
+C:\Users\Brett\OneDrive\Sphub 2020\GADD Launcher\gadd_updater\obj\Release\GADD_Launcher_Updater.exe
+D:\OneDrive - Sphub Networks\Sphub Networks Development\Projects\gadd_updater\bin\Release\GADD_Launcher_Updater.exe.config
+D:\OneDrive - Sphub Networks\Sphub Networks Development\Projects\gadd_updater\bin\Release\GADD_Launcher_Updater.exe
+D:\OneDrive - Sphub Networks\Sphub Networks Development\Projects\gadd_updater\obj\Release\g_add_up_dater.csprojAssemblyReference.cache
+D:\OneDrive - Sphub Networks\Sphub Networks Development\Projects\gadd_updater\obj\Release\gadd_updater.Updater.resources
+D:\OneDrive - Sphub Networks\Sphub Networks Development\Projects\gadd_updater\obj\Release\g_add_up_dater.csproj.GenerateResource.cache
+D:\OneDrive - Sphub Networks\Sphub Networks Development\Projects\gadd_updater\obj\Release\GADD_Launcher_Updater.exe

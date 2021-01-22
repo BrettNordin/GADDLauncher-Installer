@@ -1,0 +1,7 @@
+C:\Users\Brett\source\repos\gadd_updater\bin\Debug\gadd_updater.exe.config
+C:\Users\Brett\source\repos\gadd_updater\bin\Debug\gadd_updater.exe
+C:\Users\Brett\source\repos\gadd_updater\bin\Debug\gadd_updater.pdb
+C:\Users\Brett\source\repos\gadd_updater\obj\Debug\gadd_updater.csprojAssemblyReference.cache
+C:\Users\Brett\source\repos\gadd_updater\obj\Debug\gadd_updater.csproj.CoreCompileInputs.cache
+C:\Users\Brett\source\repos\gadd_updater\obj\Debug\gadd_updater.exe
+C:\Users\Brett\source\repos\gadd_updater\obj\Debug\gadd_updater.pdb
